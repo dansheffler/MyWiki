@@ -1,0 +1,9 @@
+[
+
+//Basic Key-Bindings
+    //{ "keys": ["ctrl+enter"], "command": "run_macro_file", "args": {"file": "Packages\\MyWikiLink\\FollowWikiLink.sublime-macro"} },
+    { "keys": ["ctrl+enter"], "command": "follow_wiki_link"},
+    { "keys": ["[", "["], "command": "get_wiki_link"}
+
+
+]

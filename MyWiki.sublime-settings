@@ -1,0 +1,7 @@
+{
+    // The directory in which your notes are stored.
+    "wiki_directory": "C:\\Users\\Dan\\Dropbox\\Notes\\",
+
+    // The preferred markdown extension
+    "wiki_extension": ".md"
+}
